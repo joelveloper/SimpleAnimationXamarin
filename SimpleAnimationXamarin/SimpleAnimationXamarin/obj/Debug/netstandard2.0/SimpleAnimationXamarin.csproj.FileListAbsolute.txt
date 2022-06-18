@@ -1,0 +1,15 @@
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.csproj.AssemblyReference.cache
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.AssemblyInfoInputs.cache
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.AssemblyInfo.cs
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.csproj.CoreCompileInputs.cache
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\bin\Debug\netstandard2.0\SimpleAnimationXamarin.deps.json
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\bin\Debug\netstandard2.0\SimpleAnimationXamarin.dll
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\bin\Debug\netstandard2.0\SimpleAnimationXamarin.pdb
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.dll
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\refint\SimpleAnimationXamarin.dll
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.pdb
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\ref\SimpleAnimationXamarin.dll
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\Views\AnimationsPage.xaml.g.cs

@@ -13,3 +13,4 @@ C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleA
 C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\SimpleAnimationXamarin.pdb
 C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\ref\SimpleAnimationXamarin.dll
 C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\Views\AnimationsPage.xaml.g.cs
+C:\Users\joel\source\repos\SimpleAnimationXamarin\SimpleAnimationXamarin\SimpleAnimationXamarin\obj\Debug\netstandard2.0\Views\SecondAnimationsPage.xaml.g.cs

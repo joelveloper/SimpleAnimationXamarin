@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SimpleAnimationXamarin.Views.SecondAnimationsPage"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="heart"
+                   HeightRequest="100"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   x:Name="ImageScale"/>
+            <Frame BackgroundColor="#3CA7F3"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Padding="0"
+                   HeightRequest="150"
+                   WidthRequest="150"
+                   CornerRadius="75"
+                   x:Name="RectangleZoom"/>
+            <Frame BackgroundColor="Black"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Padding="0"
+                   HeightRequest="150"
+                   WidthRequest="150"
+                   CornerRadius="75"
+                   x:Name="FrameImage">
+                <Image Source="bottomarrow"
+                       HeightRequest="75"
+                       VerticalOptions="Center"
+                       x:Name="ImageRotate"/>
+            </Frame>
+            <Frame BackgroundColor="Black"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                   Padding="0"
+                   HeightRequest="150"
+                   WidthRequest="150"
+                   CornerRadius="75"
+                   x:Name="FrameStart">
+                <Button Text="start"
+                        TextColor="White"
+                        FontSize="Title"
+                        FontAttributes="Bold"
+                        BackgroundColor="Transparent"
+                        x:Name="BtnStart"
+                        Clicked="BtnStart_Clicked"/>
+            </Frame>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

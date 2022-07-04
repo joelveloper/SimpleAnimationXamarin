@@ -9,7 +9,7 @@ namespace SimpleAnimationXamarin
         {
             InitializeComponent();
 
-            MainPage = new AnimationsPage();
+            MainPage = new SecondAnimationsPage();
         }
 
         protected override void OnStart()
